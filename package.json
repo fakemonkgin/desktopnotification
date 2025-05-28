@@ -1,0 +1,17 @@
+{
+  "name": "desktopnotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-notifier": "^10.0.1",
+    "nodemon": "^3.1.10"
+  }
+}
